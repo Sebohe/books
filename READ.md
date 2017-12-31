@@ -25,6 +25,8 @@
 |------|--------|------------------|----------------|  
 | Outliers: Story of Success | Malcolm Gladwell | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
 | The Black Swan: The Impact of the Highly Improbable | Nassim Nicholas Taleb | [3.88](http://www.goodreads.com/book/show/242472.The_Black_Swan) | 2007 |  
+| The Richest Man in Babylon | George S. Clason | [4.24](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon) | 1926 |  
+
 
 ## Philosophy And Psychology
 | Name | Author | Goodreads Rating | Year Published |  
