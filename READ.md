@@ -53,7 +53,6 @@
 ## Science and Medicine
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| Mind Wars: Brain Research and National Defense | Jonathan D. Moreno | [3.45](http://www.goodreads.com/book/show/599321.Mind_Wars) | 2007 |  
 
 ## Logic and Problem Solving
 | Name | Author | Goodreads Rating | Year Published |  
