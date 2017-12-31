@@ -1,23 +1,3 @@
-
-## Table of Contents
-* [Startups and Business](#startups-and-business)
-* [Philosophy and Psychology](#philosophy-and-psychology)
-* [Autobiographies and Biographies](#autobiographies-and-biographies)
-* [History](#history)
-* [Evolution, Science and Medicine](#science-and-medicine)
-* [Logic and Problem Solving](#logic-and-problem-solving)
-* [Politics](#politics)
-* [Economics](#economics)
-* [Gender](#gender)
-* [Sexuality](#sexuality)
-* [Education](#education)
-* [Writing](#writing)
-* [Theater and Film](#theater-and-film)
-* [Fiction](#fiction)
-* [Health](#health)
-* [Design](#design)
-* [Travel](#travel)
-
 # Books
 
 ## Startups and Business
@@ -49,48 +29,11 @@
 | The Seven Daughters of Eve | Bryan Sykes | | 2001 |   
 
 
-
-## Science and Medicine
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
-
-## Logic and Problem Solving
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
-
-## Politics
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|
-
-## Economics
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
-
-## Gender
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
-
 ## Sexuality
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Sex at Dawn: The Prehistoric Origins of Modern | Christopher Ryan, Cacilda Jetha | [4.02](https://www.goodreads.com/book/show/7640261-sex-at-dawn) | 2010 |  
 
-## Education
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
-
-
-## Writing
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
-
-## Theater and Film
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
-
-## Shakespeare
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
 
 ## Fiction
 
@@ -116,14 +59,6 @@
 |------|--------|------------------|----------------|  
 | Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1996 |  
 
-### Humor
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
-
-### Mystery
-| Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
-
 
 ### Horror
 | Name | Author | Goodreads Rating | Year Published |  
@@ -141,3 +76,4 @@
 | Lord of Flies | William Goldwing | | 1954 |   
 | The Little Prince | Antoine de Saint Exupéry | | 1943 |   
 | The Amulet of Samarkand (Bartimaeus) | Jonathan Stroud | | 2003 |   
+| Mrs. Frisby and the Rats of NIMH | Robert C. O'Brien | | 1971 |   
