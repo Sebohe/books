@@ -91,6 +91,7 @@
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The Girl with the Dragon Tattoo | Stieg Larsson | | 2008 |   
+| Deception Point is Dan Brown's | Dan Brown | | 2001 |   
 
 
 ### Science Fiction
