@@ -47,8 +47,8 @@
 
 ### Fantasy
 | Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
-| The Lord of the Rings | J.R.R. Tolkien | [4.47](https://www.goodreads.com/series/66175-the-lord-of-the-rings) | 2005 |  
+|------|--------|------------------|----------------|
+| The Hobbit | J.R.R. Tolkien | [4.25](https://www.goodreads.com/book/show/5907.The_Hobbit) | 1937 |  
 | A Song of Ice and Fire | George R.R. Martin | [4.45](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) | 2005 |  
 | Harry Potter | J.K. Rowling | [4.44](https://www.goodreads.com/series/45175-harry-potter) | 1997 |  
 | His Dark Materials | Philip Pullman | [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  

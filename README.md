@@ -2,6 +2,8 @@ https://www.goodreads.com/shelf/show/reddit-top-200
 
 https://github.com/hackerkid/Mind-Expanding-Books
 
+http://www.listchallenges.com/200-books-everyone-should-read/
+
 # Mind Expanding Books
 
 ## Table of Contents
