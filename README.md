@@ -4,6 +4,8 @@ https://github.com/hackerkid/Mind-Expanding-Books
 
 http://www.listchallenges.com/200-books-everyone-should-read/
 
+https://www.goodreads.com/list/show/264.Books_That_Everyone_Should_Read_At_Least_Once
+
 # Mind Expanding Books
 
 ## Table of Contents
