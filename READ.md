@@ -62,6 +62,10 @@
 | Number the Stars | Lois Lowry | | 1989 |  
 | A Single Shard | Linda Sue Park | [3/87](https://www.goodreads.com/book/show/785453.A_Single_Shard) | 2001 |  
 | Roll of Thunder, Hear My Cry | Mildred D. Taylor | | 1976 |  
+| The Bronze Bow | Elizabeth George Speare | | 1962 | 
+| The Golden Goblet | Eloise Jarvis McGraw | | 1961 | 
+
+
 
 ### Survivorship
 | Name | Author | Goodreads Rating | Year Published |  
@@ -71,6 +75,7 @@
 | Into the Wild | Jon Krakauer | [3.95](https://www.goodreads.com/book/show/1845.Into_the_Wild) | 1996 | 
 | The Call of the Wild | Jack London | | 1903 | 
 | The Most Dangerous Game | Richard Connell | | 1924 | 
+| Island of the Blue Dolphins | Scott O'Dell | | 1960 | 
 
 
 ### Horror
