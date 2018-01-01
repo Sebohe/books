@@ -44,6 +44,8 @@
 |------|--------|------------------|----------------|  
 | Don Quixote | Miguel de Cervantes | [3.85](http://www.goodreads.com/book/show/3836.Don_Quixote) | 2003 |  
 | Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values  | Robert M. Pirsig | [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
+| Othello | Shakespear | [3.88](https://www.goodreads.com/book/show/12996.Othello) | 1603 | 
+
 
 ### Fantasy
 | Name | Author | Goodreads Rating | Year Published |  
