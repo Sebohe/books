@@ -92,6 +92,7 @@
 |------|--------|------------------|----------------|  
 | The Girl with the Dragon Tattoo | Stieg Larsson | | 2008 |   
 | Deception Point is Dan Brown's | Dan Brown | | 2001 |   
+| Blindness | Jose Saramago | | 1995 |  
 
 
 ### Science Fiction
