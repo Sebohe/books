@@ -69,6 +69,8 @@
 | Hatchet | Gary Paulsen | | 1987 |   
 | The Cay | Theodore Taylor | | 1969 | 
 | Into the Wild | Jon Krakauer | [3.95](https://www.goodreads.com/book/show/1845.Into_the_Wild) | 1996 | 
+| The Call of the Wild | Jack London | | 1903 | 
+| The Most Dangerous Game | Richard Connell | | 1924 | 
 
 
 ### Horror
