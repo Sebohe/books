@@ -58,12 +58,28 @@
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1996 |  
+| Number the Stars | Lois Lowry | | 1989 |  
+| A Single Shard | Linda Sue Park | [3/87](https://www.goodreads.com/book/show/785453.A_Single_Shard) | 2001 |  
+
+### Survivorship
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------| 
+| Hatchet | Gary Paulsen | | 1987 |   
+| The Cay | Theodore Taylor | | 1969 | 
+
 
 
 ### Horror
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | Sphere | Michael Chrichton | | 1987 |
+
+
+### Mystery
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| The Girl with the Dragon Tattoo | Stieg Larsson | | 2008 |   
+
 
 ### Science Fiction
 | Name | Author | Goodreads Rating | Year Published |  
@@ -76,4 +92,4 @@
 | Lord of Flies | William Goldwing | | 1954 |   
 | The Little Prince | Antoine de Saint Exupéry | | 1943 |   
 | The Amulet of Samarkand (Bartimaeus) | Jonathan Stroud | | 2003 |   
-| Mrs. Frisby and the Rats of NIMH | Robert C. O'Brien | | 1971 |   
+| Twenty Thousand Leagues Under the Sea | Jules Verne | | 1870 |
