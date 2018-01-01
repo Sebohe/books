@@ -45,6 +45,7 @@
 | Don Quixote | Miguel de Cervantes | [3.85](http://www.goodreads.com/book/show/3836.Don_Quixote) | 2003 |  
 | Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values  | Robert M. Pirsig | [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
 | Othello | Shakespear | [3.88](https://www.goodreads.com/book/show/12996.Othello) | 1603 | 
+| The Little Prince | Antoine de Saint Exupéry | | 1943 |   
 
 
 ### Fantasy
@@ -106,6 +107,5 @@
 | Animal Farm | George Orwell | | 1945 |   
 | Brave New World | Aldous Huxley | | 1932 |   
 | Lord of Flies | William Goldwing | | 1954 |   
-| The Little Prince | Antoine de Saint Exupéry | | 1943 |   
 | The Amulet of Samarkand (Bartimaeus) | Jonathan Stroud | | 2003 |   
 | Twenty Thousand Leagues Under the Sea | Jules Verne | | 1870 |
