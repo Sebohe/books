@@ -16,6 +16,7 @@
 | The Power of Habit: Why We Do What We Do In Life And Business | Charles Duhigg | [4.03](https://www.goodreads.com/book/show/12609433-the-power-of-habit) | 2012 |  
 | Meditations: A New Translation | Marcus Aurelius, Gregory Hays | | 2002 |   
 | The Prophet | Kahlil Gibran | | 1923 |   
+| The Medical Casebook of Adolf Hitler | Leonard Heston | | 2011 |  
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
