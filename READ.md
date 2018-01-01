@@ -54,6 +54,7 @@
 | The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
 | Codex Alera | Jim Butcher | | 2009 |
 | The Phantom Tollbooth | Jules Feiffer | | 1961 |   
+| Twilight | Stephenie Meyer | | 2005 |   
 
 ### Historical Fiction
 | Name | Author | Goodreads Rating | Year Published |  
@@ -64,6 +65,7 @@
 | Roll of Thunder, Hear My Cry | Mildred D. Taylor | | 1976 |  
 | The Bronze Bow | Elizabeth George Speare | | 1962 | 
 | The Golden Goblet | Eloise Jarvis McGraw | | 1961 | 
+| É Tarde Para Saber | Josué Guimarães | | 1997 |
 
 
 
