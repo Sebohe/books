@@ -21,6 +21,7 @@
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The Last Lecture | Randy Pausch | [4.25](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) | 2008 |  
+| How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life | Scott Adams | | 2013 | 
 
 ## History
 | Name | Author | Goodreads Rating | Year Published |  
@@ -60,13 +61,14 @@
 | Sophie's World: A Novel About the History of Philosophy | Jostein Gaarder and Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1996 |  
 | Number the Stars | Lois Lowry | | 1989 |  
 | A Single Shard | Linda Sue Park | [3/87](https://www.goodreads.com/book/show/785453.A_Single_Shard) | 2001 |  
+| Roll of Thunder, Hear My Cry | Mildred D. Taylor | | 1976 |  
 
 ### Survivorship
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------| 
 | Hatchet | Gary Paulsen | | 1987 |   
 | The Cay | Theodore Taylor | | 1969 | 
-
+| Into the Wild | Jon Krakauer | [3.95](https://www.goodreads.com/book/show/1845.Into_the_Wild) | 1996 | 
 
 
 ### Horror
