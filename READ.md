@@ -17,6 +17,7 @@
 | Meditations: A New Translation | Marcus Aurelius, Gregory Hays | | 2002 |   
 | The Prophet | Kahlil Gibran | | 1923 |   
 | The Medical Casebook of Adolf Hitler | Leonard Heston | | 2011 |  
+| A Guide to the Good Life: The Ancient Art of Stoic Joy |  William B. Irvine | | 2008 |
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
@@ -29,6 +30,7 @@
 |------|--------|------------------|----------------|  
 | Guns, Germs, And Steel : The Fates Of Human Societies | Jared M. Diamond | [4.00](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) | 2005 |  
 | The Seven Daughters of Eve | Bryan Sykes | | 2001 |   
+| Sapiens: A Brief History of Humankind | Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 | 
 
 
 ## Sexuality
@@ -46,6 +48,7 @@
 | Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values  | Robert M. Pirsig | [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
 | Othello | Shakespear | [3.88](https://www.goodreads.com/book/show/12996.Othello) | 1603 | 
 | The Little Prince | Antoine de Saint Exupéry | | 1943 |   
+| The Old Man and the Sea | Ernest Hemingway | | 1952 |
 
 
 ### Fantasy
