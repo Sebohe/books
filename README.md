@@ -1,3 +1,5 @@
+https://medium.com/@sergefaguet/books-moocs-i-recommend-e17972960bc
+
 https://www.goodreads.com/shelf/show/reddit-top-200
 
 https://github.com/hackerkid/Mind-Expanding-Books
