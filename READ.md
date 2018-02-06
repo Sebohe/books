@@ -1,4 +1,10 @@
 # Books
+## Internet Essays
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| [Life is Short](http://paulgraham.com/vb.html) | Paulm Graham | | 2026 | 
+| [The Wetware Crisis](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) | Bruce F. Webster | | 2008 |
+| | | | |
 
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |  
