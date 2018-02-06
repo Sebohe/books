@@ -2,9 +2,9 @@
 ## Internet Essays
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
-| [Life is Short](http://paulgraham.com/vb.html) | Paulm Graham | | 2026 | 
+| [Life is Short](http://paulgraham.com/vb.html) | Paul Graham | | 2016 | 
 | [The Wetware Crisis](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) | Bruce F. Webster | | 2008 |
-| | | | |
+| [Great Hackers](http://www.paulgraham.com/gh.html) | Paul Graham | | 2004 |
 
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |  
