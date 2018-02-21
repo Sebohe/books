@@ -37,7 +37,7 @@
 | Guns, Germs, And Steel : The Fates Of Human Societies | Jared M. Diamond | [4.00](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) | 2005 |  
 | The Seven Daughters of Eve | Bryan Sykes | | 2001 |   
 | Sapiens: A Brief History of Humankind | Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 | 
-
+| Homo Deus: A Brief History of Tomorrow | Yuval Noah Harari | [4.32](https://www.goodreads.com/book/show/31138556-homo-deus) | 2015 | 
 
 ## Sexuality
 | Name | Author | Goodreads Rating | Year Published |  
