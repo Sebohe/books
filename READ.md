@@ -118,3 +118,10 @@
 | Lord of Flies | William Goldwing | | 1954 |   
 | The Amulet of Samarkand (Bartimaeus) | Jonathan Stroud | | 2003 |   
 | Twenty Thousand Leagues Under the Sea | Jules Verne | | 1870 |
+
+# Podcasts
+| Name | Interests |
+|------|-------|
+| [Naval Ravikant on Reading, Happiness, Systems for Decision Making, Habits, Honesty and More](https://web.archive.org/web/20180213032405/https://www.fs.blog/2017/02/naval-ravikant-reading-decision-making/) | Among many things, the goal of Naval is to completely control the monkey brain and avoid all default heuristics |
+| [YANSS 061: How to willfully alter your brain’s ability to willfully alter your brain’s abilities](http://web.archive.org/web/20170705163633/https://youarenotsosmart.com/2015/10/23/yanss-061-how-to-willfully-alter-your-brains-ability-to-willfully-alter-your-brains-a0bilities/) | |
+
