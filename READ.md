@@ -5,6 +5,10 @@
 | [Life is Short](http://paulgraham.com/vb.html) | Paul Graham | | 2016 | 
 | [The Wetware Crisis](http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/) | Bruce F. Webster | | 2008 |
 | [Great Hackers](http://www.paulgraham.com/gh.html) | Paul Graham | | 2004 |
+| [The Gonzo Futurist](http://justinpickard.net/gonzo-futurist-manifesto.pdf) ||||
+| [Identify](http://www.paulgraham.com/identity.html) | Paul Graham |||
+| [Nihilist Guide to Meaning](https://meltingasphalt.com/a-nihilists-guide-to-meaning/) |||
+| [Talking to God..](http://www.fullmoon.nu/articles/art.php?id=tal) |||
 
 ## Startups and Business
 | Name | Author | Goodreads Rating | Year Published |  
@@ -13,6 +17,11 @@
 | The Black Swan: The Impact of the Highly Improbable | Nassim Nicholas Taleb | [3.88](http://www.goodreads.com/book/show/242472.The_Black_Swan) | 2007 |  
 | The Richest Man in Babylon | George S. Clason | [4.24](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon) | 1926 |  
 
+
+## Economics
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| Debt - Updated and Expanded: The First 5,000 Years | David Graeber | [4.17](https://www.goodreads.com/book/show/6617037-debt) | 2011 |  
 
 ## Philosophy And Psychology
 | Name | Author | Goodreads Rating | Year Published |  
@@ -24,12 +33,18 @@
 | The Prophet | Kahlil Gibran | | 1923 |   
 | The Medical Casebook of Adolf Hitler | Leonard Heston | | 2011 |  
 | A Guide to the Good Life: The Ancient Art of Stoic Joy |  William B. Irvine | | 2008 |
+| The Distracted Mind | Adam Gazzaley,  Larry D. Rosen | [3.76](https://www.goodreads.com/book/show/29889454-the-distracted-mind) | 2016 |
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
 | The Last Lecture | Randy Pausch | [4.25](http://www.goodreads.com/book/show/2318271.The_Last_Lecture) | 2008 |  
 | How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life | Scott Adams | | 2013 | 
+
+## Geopolitics
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| The Accidental Super Power | Peter Zeihan | [4.35](https://www.goodreads.com/book/show/21926865-the-accidental-superpower) | 2014 |  
 
 ## History
 | Name | Author | Goodreads Rating | Year Published |  
