@@ -34,6 +34,7 @@
 | The Medical Casebook of Adolf Hitler | Leonard Heston | | 2011 |  
 | A Guide to the Good Life: The Ancient Art of Stoic Joy |  William B. Irvine | | 2008 |
 | The Distracted Mind | Adam Gazzaley,  Larry D. Rosen | [3.76](https://www.goodreads.com/book/show/29889454-the-distracted-mind) | 2016 |
+| Man's Search for Meaning | Viktor E. Frankl | [4.33](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) | 2006 |  
 
 ## Autobiographies and Biographies
 | Name | Author | Goodreads Rating | Year Published |  
