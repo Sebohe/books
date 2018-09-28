@@ -71,6 +71,7 @@
 | Othello | Shakespear | [3.88](https://www.goodreads.com/book/show/12996.Othello) | 1603 | 
 | The Little Prince | Antoine de Saint Exupéry | | 1943 |   
 | The Old Man and the Sea | Ernest Hemingway | | 1952 |
+| The Stranger | Albert Camu | | 1942 |
 
 
 ### Fantasy
